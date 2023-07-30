@@ -13,14 +13,14 @@ VALUES
 
 INSERT INTO roles (title, salary, department_id)
 VALUES 
-('Chief Executive Officer', 700000.00, 1),
+('Executive Officer', 700000.00, 1),
 ('Marketing Manager', 225000.00, 2),
 ('HR Director', 389000.00, 3),
-('Finance Head', 245000.00, 4),
-('Senior Engineer', 285000.00, 5),
+('Finance ', 245000.00, 4),
+('Engineer', 285000.00, 5),
 ('IT Manager', 225000.00, 6),
-('Customer Relations Manager', 85000.00, 7),
-('Research and Development Manager ', 195000.00, 8),
+('Customer Services', 85000.00, 7),
+('Development Manager ', 195000.00, 8),
 ('Legal Manager', 99000.00, 9),
 ('Maintenance Manager', 155000.00, 10);
 
