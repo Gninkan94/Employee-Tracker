@@ -7,7 +7,7 @@ This project was created for a Business owner so that they will  able to view an
 This app was build using JavaScript, MYsql2, database, Inquirer packages and Nodejs.
 
 ## Screenshot
-![alt text](images/Screenshot 2023-07-30 at 3.47.39 PM.png)
+![alt text](./images/Screenshot%202023-07-30%20at%203.47.39%20PM.png)
 
 ## Here is a walkthrough video demonstrating the functionality of the application.
 
