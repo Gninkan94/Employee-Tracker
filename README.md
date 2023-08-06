@@ -11,7 +11,7 @@ This app was build using JavaScript, MYsql2, database, Inquirer packages and Nod
 
 ## Here is a walkthrough video demonstrating the functionality of the application.
 
-[CLICK HERE !!](https://drive.google.com/file/d/1KL3lpGJVtU21YrqTCDPzx7DdP348e__H/view)
+[CLICK HERE !!](https://drive.google.com/file/d/1sNSk-RI-x5jqKS9BKJ4gMkAaF4cqOvDf/view)
 
 
 
